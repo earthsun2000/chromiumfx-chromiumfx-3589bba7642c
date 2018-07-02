@@ -1,0 +1,8 @@
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\Build\Debug\CfxTestBrowser.exe
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\Build\Debug\CfxTestBrowser.pdb
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\CfxTestApp\obj\x86\Debug\CfxTestApplication.csprojResolveAssemblyReference.cache
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\CfxTestApp\obj\x86\Debug\CfxTestApplication.BrowserForm.resources
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\CfxTestApp\obj\x86\Debug\CfxTestApplication.Properties.Resources.resources
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\CfxTestApp\obj\x86\Debug\CfxTestApplication.csproj.GenerateResource.Cache
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\CfxTestApp\obj\x86\Debug\CfxTestBrowser.exe
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\CfxTestApp\obj\x86\Debug\CfxTestBrowser.pdb

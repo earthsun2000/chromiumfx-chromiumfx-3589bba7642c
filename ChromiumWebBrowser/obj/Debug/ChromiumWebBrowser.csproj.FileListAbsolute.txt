@@ -1,0 +1,6 @@
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\Build\Debug\ChromiumWebBrowser.xml
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\Build\Debug\ChromiumWebBrowser.dll
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\Build\Debug\ChromiumWebBrowser.pdb
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\ChromiumWebBrowser\obj\Debug\ChromiumWebBrowser.csprojResolveAssemblyReference.cache
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\ChromiumWebBrowser\obj\Debug\ChromiumWebBrowser.dll
+E:\_cs\chromiumfx-chromiumfx-3589bba7642c\ChromiumWebBrowser\obj\Debug\ChromiumWebBrowser.pdb
