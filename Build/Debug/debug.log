@@ -1,0 +1,28 @@
+[0702/224548.123:WARNING:resource_bundle.cc(366)] locale_file_path.empty() for locale 
+[0702/224548.126:ERROR:main_delegate.cc(683)] Could not load locale pak for en-US
+[0702/224548.126:ERROR:main_delegate.cc(690)] Could not load cef.pak
+[0702/224548.126:ERROR:main_delegate.cc(707)] Could not load cef_100_percent.pak
+[0702/224548.126:ERROR:main_delegate.cc(716)] Could not load cef_200_percent.pak
+[0702/224548.127:ERROR:main_delegate.cc(725)] Could not load cef_extensions.pak
+[0702/224548.226:ERROR:content_client.cc(272)] No data resource available for id 101
+[0702/224652.607:WARNING:resource_bundle.cc(366)] locale_file_path.empty() for locale 
+[0702/224652.607:ERROR:main_delegate.cc(683)] Could not load locale pak for en-US
+[0702/224652.612:ERROR:main_delegate.cc(690)] Could not load cef.pak
+[0702/224652.632:ERROR:main_delegate.cc(707)] Could not load cef_100_percent.pak
+[0702/224652.632:ERROR:main_delegate.cc(716)] Could not load cef_200_percent.pak
+[0702/224652.633:ERROR:main_delegate.cc(725)] Could not load cef_extensions.pak
+[0702/224652.698:ERROR:content_client.cc(272)] No data resource available for id 101
+[0702/225124.583:WARNING:resource_bundle.cc(366)] locale_file_path.empty() for locale 
+[0702/225124.584:ERROR:main_delegate.cc(683)] Could not load locale pak for en-US
+[0702/225124.584:ERROR:main_delegate.cc(690)] Could not load cef.pak
+[0702/225124.584:ERROR:main_delegate.cc(707)] Could not load cef_100_percent.pak
+[0702/225124.585:ERROR:main_delegate.cc(716)] Could not load cef_200_percent.pak
+[0702/225124.585:ERROR:main_delegate.cc(725)] Could not load cef_extensions.pak
+[0702/225124.625:ERROR:content_client.cc(272)] No data resource available for id 101
+[0702/225205.939:WARNING:resource_bundle.cc(366)] locale_file_path.empty() for locale 
+[0702/225205.940:ERROR:main_delegate.cc(683)] Could not load locale pak for en-US
+[0702/225205.943:ERROR:main_delegate.cc(690)] Could not load cef.pak
+[0702/225205.943:ERROR:main_delegate.cc(707)] Could not load cef_100_percent.pak
+[0702/225205.944:ERROR:main_delegate.cc(716)] Could not load cef_200_percent.pak
+[0702/225205.944:ERROR:main_delegate.cc(725)] Could not load cef_extensions.pak
+[0702/225205.985:ERROR:content_client.cc(272)] No data resource available for id 101
